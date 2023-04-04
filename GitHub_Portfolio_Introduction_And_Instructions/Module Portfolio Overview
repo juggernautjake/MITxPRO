@@ -1,8 +1,74 @@
 Module Portfolio Focus:
 
+	Learning Outcomes:
+	- Course Learning Outcomes Addressed
+	- Build web applications using Javascript, HTML, and CSS
+	- Design and code user interactions on web pages
+	- Design and implement UI components for web applications
+	- Set-up code management tools such as GitHub
+	
+	Activities: 
+	- GitHub Portfolio Project Submission
+	
+	Personal Discription:
+	    This project will allow me to develop a personal portfolio containing all of the 
+	    projects I have been working on over the past few months in this course. I can also 
+	    upload any other projects that I have been working on in my own time. This will be a 
+	    useful resource for keeping a collection of my projects in one place and displaying 
+	    them neatly, as well as for impressing potential employers.
+
+
 
 
 Module Portfolio Goals:
+
+	The Portfolio must professionally display any projects that I have worked on. It will
+	contain multiple pages composed of HTML, CSS, and JavaScript.
+	
+	Portfolio Requirements:
+	    Landing Page Requirements
+		1. Personal Video Introduction
+	    	    - Name
+	    	    - Professional Overview
+	    	    - Personal Fun Facts
+	    	    - 2 Min. Max.
+	    	    - Uploaded to Youtube
+	    	    -Embedded in Portfolio Front Page
+		2. Bio
+	    	    - Childhood
+	    	    - Education
+	    	    - Aspirations and Motivations
+		3. Git Username
+	   	    - Username
+	   	    - List of Repositories on GitHub
+	   	    - Favorite GitHub Accounts I Follow
+		4. LinkedIn Profile
+	    	    - LinkedIn Username
+	   	    - Endorsements
+	   	    - List of previous work experience
+		5. Twitter Account
+	    	    - Username
+	   	    - Top 3 Accounts I Follow
+		6. Favorite Podcasts
+	    	    - Top 3 Podcasts I Follow
+		7. Other Certifications
+	    	    - Microsoft Certs
+	    	    - Codecademy Certs
+	    	    - MITxPro Cert
+	    	8. Exercises/HW/Repositories
+	    	    - Descriptions of Projects
+	    	    - Links to Code
+	    	    - Icon/Images
+	    	    - Include Repository ReadMe File
+	    	    
+	    	    
+	    - Plan Out the Number of Pages and What Each Page Will 		
+	      Contain (Plan Layout)
+	      Navigation Bar
+	    - Use Bootstrap
+	    - Pick a cohesive styling
+	    
+	    
 
 
 
