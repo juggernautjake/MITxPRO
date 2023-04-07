@@ -1,0 +1,51 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
+  
+  .videoWrapper {
+    position: relative;
+    padding-bottom: 32%;
+    height: 0;
+  }
+  .videoWrapper iframe {
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    width: 50%;
+    height:90%;
+  }
+
+  .navbar-default div.navbar-collapse
+  {
+      margin-top: 0.5%;
+      border-top:none;
+      box-shadow:none;
+
+      
+  }
+
+  .btn-bd-dark {
+    --bs-btn-font-weight: 600 !important;
+    --bs-btn-color: var(--bs-white) !important;
+    --bs-btn-bg: var(--bd-violet-bg) !important;
+    --bs-btn-border-color: var(--bd-violet-bg) !important;
+    --bs-btn-hover-color: var(--bs-white) !important;
+    --bs-btn-hover-bg: #{shade-color($bd-violet, 10%) !important} ;
+    --bs-btn-hover-border-color: #{shade-color($bd-violet, 10% )};
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb) !important;
+    --bs-btn-active-color: var(--bs-btn-hover-color) !important;
+    --bs-btn-active-bg: #{shade-color($bd-violet, 20%) !important};
+    --bs-btn-active-border-color: #{shade-color($bd-violet, 20%) !important};
+  }
+
+
+  @media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+
+
+
