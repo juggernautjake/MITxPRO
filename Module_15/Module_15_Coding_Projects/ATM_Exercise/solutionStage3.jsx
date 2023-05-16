@@ -23,8 +23,17 @@ const Account = () => {
   };
   const handleSubmit = () => {
     let newTotal = isDeposit ? totalState + deposit : totalState - deposit;
-    setTotalState(newTotal);
-    event.preventDefault();
+    if(newTotal < 0) {
+      return (
+        <label className="label huge">
+          <h4>"Not enough funds"</h4>
+        </label>
+      );
+    } else {
+      setTotalState(newTotal);
+      event.preventDefault();
+    }
+    
   };
 
   return (
